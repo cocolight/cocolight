@@ -1,5 +1,5 @@
 # Hi I'm here👋
-I am [cocolight], an amateur developer.
+I am cocolight, an amateur developer.
 
 ##  My Skills
 - **Programming Languages**: Python, JavaScript, etc
